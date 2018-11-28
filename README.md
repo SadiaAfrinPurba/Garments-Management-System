@@ -1,1 +1,1 @@
-# Garments Management System
+# Garment Management System
